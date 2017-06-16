@@ -4,7 +4,7 @@ Second task from Udacity's [Android basics course](https://www.udacity.com/cours
 
 Android Basics: User Interface
 
-Lesson 5: Project
+[Lesson 5: Project](https://review.udacity.com/#!/rubrics/133/view)
 
 An app for a fictional business "Local Apple Garden"
 
